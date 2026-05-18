@@ -32,8 +32,6 @@ Building beginner-friendly Data Science projects
 Practicing Python daily
 Exploring Machine Learning algorithms
 Improving problem-solving skills
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mirlubnaE&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirlubna&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 🌐 Connect With Me
 LinkedIn: linkedin.com/in/mir-lubna-50681240b/?skipRedirect=true
 <!-- Portfolio: https://yourwebsite.com -->
