@@ -33,8 +33,8 @@ Practicing Python daily
 Exploring Machine Learning algorithms
 Improving problem-solving skills
 🌐 Connect With Me
-LinkedIn: linkedin.com/in/mir-lubna-50681240b/?skipRedirect=true
-<!-- Portfolio: https://yourwebsite.com -->
+LinkedIn:https://www.linkedin.com/in/mir-lubna-50681240b/?skipRedirect=true
+Portfolio: https://yourwebsite.com -->
 Email: mirlubna910@gmail.com
 ✨ Fun Fact
 
